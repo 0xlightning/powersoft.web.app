@@ -1,0 +1,27 @@
+{
+  "name": "powersoft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raajesh-G/powersoft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raajesh-G/powersoft/issues"
+  },
+  "homepage": "https://github.com/Raajesh-G/powersoft#readme",
+  "dependencies": {
+    "firebase": "^7.15.0",
+    "sib-api-v3-sdk": "^7.2.3"
+  }
+}
