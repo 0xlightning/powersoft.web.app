@@ -8,7 +8,7 @@
 # Installation :
 
 ```
-$ git clone https://github.com/praveen2002/powersoft.web.app.git  <br>
+$ git clone https://github.com/praveen2002/powersoft.web.app.git
 $ cd powersoft.web.app
 $ unzip node_modules.zip
 ```
