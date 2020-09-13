@@ -15,9 +15,9 @@ $ unzip node_modules.zip
  
 # Contributors :
 
-- [Praveen.K.S](https://github.com/praveen2002)
+- [Praveen.K.S](https://github.com/lightingsarp)
 - [Raajesh.G](https://github.com/Raajesh-G)
-
+- [Litheesh.A](https://github.com/litheesh56)
 
 
 
